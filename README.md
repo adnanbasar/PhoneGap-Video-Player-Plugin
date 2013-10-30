@@ -1,0 +1,2 @@
+PhoneGap-Video-Player-Plugin
+============================
